@@ -1,0 +1,4 @@
+package chapter 1;
+
+public class ScopeVar(
+  // instance variable
